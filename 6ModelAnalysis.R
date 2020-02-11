@@ -2,6 +2,7 @@
 ## this file, the HEdtree and data.table libraries are needed (see the top of file 3).
 ## Once installed, these do not need separate loading as they are loaded when file 3 is
 ## sourced below. Outputs are sent to tables/
+## for MDR
 rm(list=ls())                           #clear
 
 ## next libraries and functions are formatting & outputs
